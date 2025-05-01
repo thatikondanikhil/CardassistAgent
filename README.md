@@ -8,5 +8,7 @@
  4.In database folder create the Database using db_creation.
  
  5.Check the dummy data provided and insert the data manually.
+
+ 6.Set up the required environment files in a .env file
  
- 6.Use Uvicorn main:app --reload to start the server
+ 7.Use Uvicorn main:app --reload to start the server
